@@ -5,7 +5,7 @@ Implementation of feature selection and exploring dimensionality reduction in pr
 Heart failure is a pathological condition in which the heart muscles are so weak that they cannot pump enough blood for body's needs. 
 Under heart failure, the heart does not stop pumping so it does not necessarilty leads to patient's death. When a patient with heart failure
 gets admitted in the hospital, several tests are performed to monitor critical parameters that are critical for determining heart's functioning 
-capacity. However, as indicated in the research paper by et al through machine learning methods that not all of these parameters contribute to
+capacity. However, as indicated in the research paper by Davide Chicco et al through machine learning methods that not all of these parameters contribute to
 heart failure. It may not be necessary to conduct all these tests thus, saving resources and expediting the release of appropriate treatment plan
 for the affected patients. 
 
